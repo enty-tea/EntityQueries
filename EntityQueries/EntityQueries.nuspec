@@ -4,7 +4,8 @@
     <id>EntyTea.EntityQueries</id>
     <version>$version$</version>
     <title>EntityQueries</title>
-    <authors>enty-tea</authors>
+	<authors>enty-tea</authors>
+    <owners>enty-tea</owners>
     <projectUrl>https://github.com/enty-tea/EntityQueries</projectUrl>
     <licenseUrl>https://github.com/enty-tea/EntityQueries/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
